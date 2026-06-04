@@ -27,3 +27,48 @@ Managing events manually can be time-consuming and error-prone. Organizers often
 - Maintain participant records.
 - Generate event reports.
 - Provide secure user authentication.
+
+---
+
+## Technologies Used
+
+### Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Spring Boot
+- Java
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## Modules
+
+1. User Authentication
+2. Event Management
+3. Participant Management
+4. Registration Management
+5. Schedule Management
+6. Report Generation
+
+---
+
+## Database Tables
+
+- Users
+- Events
+- Participants
+- Registrations
+- Schedules
+  
