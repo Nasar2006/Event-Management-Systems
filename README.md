@@ -33,13 +33,11 @@ Managing events manually can be time-consuming and error-prone. Organizers often
 ## Technologies Used
 
 ### Frontend
-- React.js
 - HTML
 - CSS
 - JavaScript
 
 ### Backend
-- Spring Boot
 - Java
 
 ### Database
@@ -48,7 +46,6 @@ Managing events manually can be time-consuming and error-prone. Organizers often
 ### Tools
 - Git
 - GitHub
-- Postman
 - VS Code
 
 ---
