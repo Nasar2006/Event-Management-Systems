@@ -44,7 +44,7 @@ Managing events manually can be time-consuming and error-prone. Organizers often
 - MySQL
 
 ### Tools
-- Git
+
 - GitHub
 - VS Code
 
